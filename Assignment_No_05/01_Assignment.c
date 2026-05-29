@@ -1,4 +1,14 @@
 // Program which accept number from user and print that number of $&* on screen.
+//
+// Input: 5
+// Output: $&* $&* $&* $&* $&*
+//
+// Input: 3
+// Output: $&* $&* $&*
+// 
+// Input: -3
+// Output: $&* $&* $&*
+
 #include <stdio.h>
 
 void Pattern(int iNo)

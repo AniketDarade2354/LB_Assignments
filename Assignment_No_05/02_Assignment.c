@@ -1,4 +1,8 @@
 // Program which accept number from user and print numbers till that number.
+//
+// Input: 8
+// Output: 1 2 3 4 5 6 7 8
+
 #include <stdio.h>
 
 void Display(int iNo)
@@ -28,3 +32,6 @@ int main()
 
     return 0;
 }
+
+// Time Complexity : O(N)
+// Where N > 0

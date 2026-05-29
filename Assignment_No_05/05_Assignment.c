@@ -1,4 +1,5 @@
 // Program which accept N and print 5 multiples of N.
+//
 // Input: 4
 // Output: 4 8 12 16 20
 
@@ -33,3 +34,6 @@ int main()
 
     return 0;
 }
+
+// Time Complexity : O(1)
+// Where N > 0
